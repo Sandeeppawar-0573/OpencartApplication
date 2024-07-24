@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-19T00:08:14 IST" name="Default suite" finished-at="2024-07-19T00:08:21 IST" duration-ms="6396">
+    <groups>
+    </groups>
+    <test started-at="2024-07-19T00:08:14 IST" name="Default test" finished-at="2024-07-19T00:08:21 IST" duration-ms="6396">
+      <class name="ai.oc.testlayer.HomepageTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:ai.oc.testlayer.HomepageTest@53aac487]" started-at="2024-07-19T00:08:14 IST" name="start" finished-at="2024-07-19T00:08:21 IST" duration-ms="6241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="verifyTotalPrice()[pri:0, instance:ai.oc.testlayer.HomepageTest@53aac487]" started-at="2024-07-19T00:08:21 IST" name="verifyTotalPrice" finished-at="2024-07-19T00:08:21 IST" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTotalPrice -->
+      </class> <!-- ai.oc.testlayer.HomepageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
